@@ -1,5 +1,3 @@
-
-
 // Buzzer
 const int buzzerPin = 12;    // Pino do buzzer
 
